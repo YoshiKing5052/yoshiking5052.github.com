@@ -1,0 +1,11 @@
+#easy {
+    width: 300px;
+    height: 300px
+}
+#easy
+   { border-radius: 600px;
+    border-color: black;
+    background-color: blue;
+    font-size: 50px;
+    color: white;
+}
